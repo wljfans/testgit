@@ -1,1 +1,2 @@
 this is a git repository test.
+test git stash and merge
