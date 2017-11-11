@@ -1,2 +1,3 @@
 this is a git repository test.
-test git stash and merge
+first test git stash and merge
+second,this is a test for git stash and merge
